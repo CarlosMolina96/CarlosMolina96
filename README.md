@@ -1,14 +1,17 @@
 # ¡Hola! Soy Carlos 👋
 
-Soy un **Full Stack Developer** apasionado por la creación de soluciones web innovadoras y eficientes. A lo largo de mi carrera, he tenido la oportunidad de trabajar con diversas tecnologías, incluyendo **Python**, **React**, **Node.js**, **SQL** y **JavaScript**, entre otras.
+Soy un **Full Stack Developer** apasionado por la creación de soluciones web innovadoras y eficientes. He tenido la oportunidad de trabajar con diversas tecnologías, incluyendo **Python**, **React**, **Node.js**, **SQL** y **JavaScript**, entre otras.
 
-Me encanta aprender y explorar nuevas herramientas y frameworks que me permitan mejorar mis habilidades. Estoy especialmente interesado en el desarrollo de aplicaciones que no solo sean funcionales, sino también visualmente atractivas.
-
-Disfruto colaborar en equipos dinámicos donde puedo aportar mis ideas tanto en el ámbito del desarrollo como en el diseño visual. La sinergia entre diferentes perspectivas es fundamental para crear productos excepcionales, y estoy siempre abierto a recibir feedback y aprender de mis compañeros.
-
-Mi objetivo es seguir creciendo profesionalmente, enfrentando nuevos desafíos y contribuyendo a proyectos emocionantes. Estoy emocionado por comenzar este nuevo proyecto y listo para dar lo mejor de mí.
+Mi objetivo es seguir creciendo profesionalmente, enfrentando nuevos desafíos y dando lo mejor de mí para contribuir en nuevos proyectos emocionantes, tanto en el ámbito del desarrollo, como en el diseño visual, estando siempre abierto a recibir feedback y aprender de los demás.
 
 Visita mi LinkedIn: www.linkedin.com/in/carlos-molina-castano
 
----
+--------
 
+# Hi! I'm Carlos 👋
+
+I am a **Full Stack Developer** passionate about creating innovative and efficient web solutions. I have had the opportunity to work with a variety of technologies, including **Python**, **React**, **Node.js**, **SQL** and **JavaScript**, among others.
+
+My goal is to continue growing professionally, facing new challenges and giving my best to contribute to exciting new projects, both in the field of development and in visual design, always being open to receiving feedback and learning from others.
+
+Visit my LinkedIn page: www.linkedin.com/in/carlos-molina-castano
